@@ -1,0 +1,25 @@
+ 
+ p {
+     background-color: aquamarine;
+     color: blue;
+     font-size: 30px;
+ }
+
+ #i1 {
+     background-color: bisque;
+
+ }
+
+ .c1 {
+     background-color: khaki;
+ }
+
+ h3,
+ h4 {
+     background-color: cadetblue;
+     color: cornsilk;
+ }
+
+ * {
+     background-color: beige;
+ }
